@@ -35,7 +35,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h2>Working Paper(s) and Work(s) in Progress</h2>
 <ul>
   <li>
-    "Do Schooling Cutoff Dates Influence Crime? Evidence from Florida and Illinois"
+    "How Does Human Capital Influence Crime? Evidence from School Cutoff Dates in Florida and Illinois"
     <br>
     <span style="display: block; height: 5px;"></span>
     <!--<strong>Abstract:</strong> I exploit variation in prison facility peer composition over time to identify heterogeneous peer effects on recidivism rates based on criminal severity. Using data from the Illinois Department of Corrections, which covers the entire prison population from 2014 to 2024, I employ two proxies for individual criminal severity&mdash;sentence length and felony crime class&mdash;to measure the effect of more severe criminal peers on total recidivism, recidivism by crime type, and recidivism into more severe crimes. Additionally, I exploit exogenous medical quarantines during the COVID-19 pandemic, which abruptly reduced inmate interaction. Variation in exposure to these quarantines across facilities and time provides an additional source of identification for peer effects on recidivism. This study contributes to the rapidly growing literature on peer effects within prisons and their impact on recidivism.-->
@@ -66,7 +66,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <h2>Teaching Experience</h2>
     <h3>As the Instructor of Record at FSU</h3>
     <ul>
-        <li>Principles of Microeconomics <span style="float:right;">Summer, 2025</span></li>
+        <li>Principles of Microeconomics <em>(Evaluations: 5/5)</em><span style="float:right;">Summer, 2025</span></li>
     </ul>
     <h3>As a Teaching Assistant at FSU</h3>
     <ul>
@@ -117,7 +117,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   
   <h3>2025</h3>
   <ul>
-    <li>FSU Quantitative Economics Workshop (<em>Upcoming</em>)<span style="float: right;">Tallahassee, FL</span></li>
+    <li>FSU Quantitative Economics Workshop <em>(Upcoming)</em><span style="float: right;">Tallahassee, FL</span></li>
   </ul>
 
   <h3>2023</h3>
