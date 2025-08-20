@@ -18,5 +18,5 @@ You can find the guides below:
 
 <a href="https://www.dropbox.com/scl/fi/uuytl4fsw4zz9p0buq6hn/Micro-Theory-II-Guide.pdf?rlkey=epfpzs4ladee5pyv47zp7b5nr&st=x3xd85nd&dl=0"> Microeconomics Theory II Guide</a>
 
-I also have (less complete) macroeconomics guides. Please reach out if you would like access to either of them.
+I also have (less complete) macroeconomics guides available upon request.
 
