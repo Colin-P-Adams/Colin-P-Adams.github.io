@@ -88,6 +88,7 @@ redirect_from:
 }
 
 </style>
+::: column-page
 
 <section id="about-home">
 
