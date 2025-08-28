@@ -14,11 +14,11 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h2>Education</h2>
   <p>
     <strong>Florida State University</strong> (Tallahasse, FL)<br>
-    Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span> (Milledgeville, GA)<br>
+    Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span> <br>
     M.S., Economics <span style="float:right;"> December, 2024</span>
   </p>
   <p>
-    <strong>Georgia College & State University</strong><br>
+    <strong>Georgia College & State University</strong> (Milledgeville, GA) <br>
     B.S., Economics (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span><br>
     B.S., Finance (<em>summa cum laude</em>) <span style="float:right;"> May, 2023</span>
   </p>
