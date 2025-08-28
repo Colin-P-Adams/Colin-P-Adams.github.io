@@ -106,7 +106,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
   <p>
     <strong>Georgia College & State University</strong><br>
-    <span class="indent">Mentored Undergraduate Research and Creative Endeavors (MURACE) with 
+    <span class="indent">Mentored Undergraduate Research and Creative Endeavors (<a href="https://www.gcsu.edu/murace" target="_blank">MURACE</a>) with 
     <a href="https://scholar.google.com/citations?user=fIReWHEAAAAJ&hl=en" target="_blank">Brent Evans</a> 
     <span style="float:right;">Summer, 2022</span></span>
   </p>
