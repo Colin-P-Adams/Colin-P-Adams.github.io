@@ -72,7 +72,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <ul>
       <li>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025 & 2026</span></li>
       <li>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024 & 2025</span></li>
-      <li>Introduction to Mathematical Economics (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></li>  
+      <li>Mathematics for Economists (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></li>  
       <li>International Finance <span style="float:right;">Spring, 2024</span></li>
       <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
       <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></li>
