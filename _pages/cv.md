@@ -13,8 +13,8 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="education">
   <h2>Education</h2>
   <p>
-    <strong>Florida State University</strong><br>
-    Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span><br>
+    <strong>Florida State University</strong> (Tallahasse, FL)<br>
+    Ph.D., Economics <span style="float:right;">(Expected) May, 2028</span> (Milledgeville, GA)<br>
     M.S., Economics <span style="float:right;"> December, 2024</span>
   </p>
   <p>
