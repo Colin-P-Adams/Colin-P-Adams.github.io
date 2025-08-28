@@ -135,7 +135,7 @@ redirect_from:
           <i class="fab fa-linkedin"></i> LinkedIn
         </a>
         <a href="https://x.com/Colin_P_Adams" class="icon-button" target="_blank">
-          <i class="fab fa-linkedin"></i> X
+          <i class="fab fa-twitter"></i> X
         </a>
       </div>
     </div>
