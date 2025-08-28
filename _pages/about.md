@@ -134,8 +134,8 @@ redirect_from:
         <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank">
           <i class="fab fa-linkedin"></i> LinkedIn
         </a>
-        <a href="https://x.com/Colin_P_Adams" class="icon-button" target="_blank">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="16" height="16" fill="currentColor" style="display: block; margin: auto;">
+        <a href="https://x.com/Colin_P_Adams" class="icon-button" target="_blank" style="display: flex; align-items: center; justify-content: center;">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="18" height="18" fill="currentColor">
         <path d="M714 519L1160 0H1049L663 450 381 0H0l463 684L0 1227h111l370-429 
              300 429h481L714 519zM583 715l-43-61-340-479h147l274 386 
              43 61 356 503H871L583 715z"/>
