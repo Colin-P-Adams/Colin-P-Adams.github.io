@@ -1,6 +1,6 @@
 ---
 title: 'Prison, Peers, and Recidivism: Does Severity Matter?'
-date: 2025-04-01
+date: 2025-04-28
 permalink: /posts/prisonpeersandrecidivism
 # tags:
 #   - Recidivism
