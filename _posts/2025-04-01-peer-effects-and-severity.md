@@ -5,6 +5,8 @@ permalink: /posts/prisonpeersandrecidivism
 # tags:
 #   - Recidivism
 #   - Crime
+#   - Crime Economics
+#   - Peer Effects
 exclude_from_archive: false
 ---
 
