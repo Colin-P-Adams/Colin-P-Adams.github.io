@@ -1,7 +1,7 @@
 ---
 title: 'Micro Theory Guides (Ph.D.)'
 date: 2025-05-01
-permalink: /posts/MicroTheoryGuides
+permalink: /posts/microtheoryguides
 # tags:
 #   - Microeconomics
 #   - PhD
