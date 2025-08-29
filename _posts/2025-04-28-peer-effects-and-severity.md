@@ -16,4 +16,4 @@ I ultimately set the idea aside, but the identification strategy relied on peer 
 
 While Bayer, Hjalmarsson, and Pozen (2009) focus on knowledge transfer for specific crimes, peers may also influence broader outcomes by shaping salience, norms, and attitudes. This design would test whether exposure to peers with more severe convictions, measured by sentence length and felony class, increases the likelihood that ex-convicts escalate into more serious crimes than their prior offenses.
 
-The full (resting) paper is available <a href="https://colin-p-adams.github.io/papers/prisonpeersandrecidivism.pdf"> here</a>. Unfortunately, I stopped the project before I got to any results.
+The full (resting) paper is available <a href="https://colin-p-adams.github.io/papers/prisonpeersandrecidivism.pdf"> here</a>. Unfortunately, I stopped the project before reaching any results.
