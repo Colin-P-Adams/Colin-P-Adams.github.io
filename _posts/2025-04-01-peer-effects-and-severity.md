@@ -10,10 +10,10 @@ permalink: /posts/prisonpeersandrecidivism
 exclude_from_archive: false
 ---
 
-One of my recent research ideas combines the identification strategy of Bayer, Hjalmarsson, and Pozen (2009) with the random assignment of "quality" of peers used in Lyle (2007). I hoped to build upon Bayer, Hjalmarsson, and Pozen (2009), who look at the effect of exposure to peers who committed specific crimes on a juveniles propensity to commit those specific crimes after release, to see if the severity of crime for which peers were sentenced for would strengthen the effects found in their paper.
+One of my recent research ideas combined the identification strategy of Bayer, Hjalmarsson, and Pozen (2009) with the random peer assignment design in Lyle (2007). Bayer, Hjalmarsson, and Pozen show that exposure to peers who committed specific crimes increases a juvenile’s likelihood of committing those same crimes after release. I sought to extend their work by testing whether the severity of peers’ crimes further amplifies these effects.
 
-I chose not to continue the idea, but the identification strategy was premissed on the exposure to peers is independent of the prisoner themself. This is because a prisoners peer composition is due to the crimes and criminal process of their peers and could only be related for individuals who committed crimes together.
+I ultimately set the idea aside, but the identification strategy relied on peer exposure being independent of the individual prisoner. Peer composition is determined by the crimes and judicial processes of others, and it would only fail to be independent if an individual committed crimes with others who were later incarcerated in the same facility.
 
-It is possible that peers affect an individual's criminal patterns after release not just in sharing information for specific types of crime, such as in Bayer, Hjalmarsson, and Pozen (2009), but also in changing criminal salience, social norms, and crime attitudes. This design would test if peers with more severe convictions induce ex-convicts to recommit into more severe crimes than they were previously convicted of.
+While Bayer, Hjalmarsson, and Pozen (2009) focus on knowledge transfer for specific crimes, peers may also influence broader outcomes by shaping salience, norms, and attitudes. This design would test whether exposure to peers with more severe convictions, measured by sentence length and felony class, increases the likelihood that ex-convicts escalate into more serious crimes than their prior offenses.
 
 The full resting paper is available <a href="https://colin-p-adams.github.io/papers/SchoolCutoffsAndCrime.pdf"> here</a>.
