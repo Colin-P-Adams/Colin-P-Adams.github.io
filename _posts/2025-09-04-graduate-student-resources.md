@@ -10,7 +10,7 @@ permalink: /posts/graduatestudentresources
 #   - Research
 #   - Help
 exclude_from_archive: false
---- <em></em>
+---
 
 This page brings together a variety of resources including books, presentations, textbooks, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials.
 
