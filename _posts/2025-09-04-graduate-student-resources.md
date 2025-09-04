@@ -10,23 +10,21 @@ permalink: /posts/graduatestudentresources
 #   - Research
 #   - Help
 exclude_from_archive: false
----
+--- <em></em>
 
-I have recently found many resources in the form of books, presentations, textbooks, etc. which aim to help aspiring researchers in economics get started. I include each of these below for the future reference of others as well as myself.
-
-I will continue to add to this list as I stumble upon other resources
+This page brings together a variety of resources including books, presentations, textbooks, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials.
 
 <h2>Books</h2>
 
-<a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> Doing Economics: What You Should Have Learned in Grad School-But Didn't</a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
+<a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
 
-<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> A Guide for the Young Economist</a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
+<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
 
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> Economical Writing</a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
 
 <h2>Textbooks</h2>
 
-<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> Data Wrangling for Economists</a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
+<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
 
 
 <h2>Presentations</h2>
