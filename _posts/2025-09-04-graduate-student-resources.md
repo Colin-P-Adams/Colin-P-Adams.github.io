@@ -40,6 +40,6 @@ _Last updated: September 4, 2025_
 
 <a href="https://instr.iastate.libguides.com/c.php?g=49275"> Economics Research Guide</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
 
-<a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
+<a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
 
 <a href="https://jenniferdoleac.com/resources/"> Many resources for crime economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
