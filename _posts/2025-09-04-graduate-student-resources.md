@@ -1,5 +1,5 @@
 ---
-title: 'Graduate Student Resources'
+title: 'Resources I’ve Found Helpful as a Graduate Student'
 date: 2025-09-04
 permalink: /posts/graduatestudentresources
 # tags:
