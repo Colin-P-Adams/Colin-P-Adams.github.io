@@ -24,6 +24,9 @@ _Last updated: September 4, 2025_
 
 <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
 
+<a href=""> <em>The Little Book of Research Writing</em></a> by Varanya Chaubey
+
+
 <h2>Textbooks</h2>
 
 <a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
