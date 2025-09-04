@@ -14,8 +14,6 @@ exclude_from_archive: false
 
 This page brings together a variety of resources including books, presentations, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials.
 
-_Last updated: September 4, 2025_
-
 <h2>Books</h2>
 
 <a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
@@ -46,3 +44,6 @@ _Last updated: September 4, 2025_
 <a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
 
 <a href="https://jenniferdoleac.com/resources/"> Many resources for crime economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+
+
+_Last updated: September 4, 2025_
