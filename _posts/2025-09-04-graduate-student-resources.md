@@ -31,7 +31,7 @@ This page brings together a variety of resources including books, presentations,
 
 <a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
 
-<h2>Blogs</h2>
+<h2>Selected Blog Posts</h2>
 
 <a href="https://blogs.worldbank.org/en/team/d/david-evans"> How to Publish Statistically Insignificant Results in Economics</a> by <a href="https://davidsevans.org/"> David Evans</a>
 
