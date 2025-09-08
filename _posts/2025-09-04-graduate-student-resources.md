@@ -16,11 +16,11 @@ This page brings together a variety of resources including books, presentations,
 
 <h2>Books</h2>
 
+<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
+
 <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
 
 <a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
-
-<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
 
 <a href=""> <em>The Little Book of Research Writing</em></a> by Varanya Chaubey
 
@@ -44,13 +44,14 @@ This page brings together a variety of resources including books, presentations,
 
 <h2>Others</h2>
 
-<a href="https://sites.google.com/view/econgradadvice"> "Advice for PhD Students in Economics"</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
+<a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
 
-<a href="https://annemburton.com/economics-conferences"> "Economics Conference List"</a> by <a href="https://annemburton.com/"> Anne Burton</a>
+<a href="https://annemburton.com/economics-conferences"> Economics Conference List</a> by <a href="https://annemburton.com/"> Anne Burton</a>
 
-<a href="https://instr.iastate.libguides.com/c.php?g=49275"> "Economics Research Guide"</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
+<a href="https://instr.iastate.libguides.com/c.php?g=49275"> Economics Research Guide</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
 
-<a href="https://jenniferdoleac.com/resources/"> "Many resources for crime economists" </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+<a href="https://jenniferdoleac.com/resources/"> Many resources for crime economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+
 
 
 
