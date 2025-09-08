@@ -51,4 +51,4 @@ This page brings together a variety of resources including books, presentations,
 <a href="https://jenniferdoleac.com/resources/"> Many resources for crime economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
 
 
-_Last updated: September 4, 2025_
+_Last updated: September 8, 2025_
