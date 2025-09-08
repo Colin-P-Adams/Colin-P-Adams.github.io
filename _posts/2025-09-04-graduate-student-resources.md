@@ -33,7 +33,7 @@ This page brings together a variety of resources including books, presentations,
 
 <h2>Selected Blog Posts</h2>
 
-<a href="https://blogs.worldbank.org/en/team/d/david-evans"> How to Publish Statistically Insignificant Results in Economics</a> by <a href="https://davidsevans.org/"> David Evans</a>
+<a href="https://blogs.worldbank.org/en/team/d/david-evans"> "How to Publish Statistically Insignificant Results in Economics"</a> by <a href="https://davidsevans.org/"> David Evans</a>
 
 <h2>Presentations</h2>
 
