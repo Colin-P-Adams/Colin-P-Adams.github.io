@@ -16,39 +16,42 @@ This page brings together a variety of resources including books, presentations,
 
 <h2>Books</h2>
 
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
+
 <a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
 
 <a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
-
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
 
 <a href=""> <em>The Little Book of Research Writing</em></a> by Varanya Chaubey
 
 
 <h2>Textbooks</h2>
 
+<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
+
 <a href="https://r4ds.hadley.nz/"> <em>R for Data Scientists</em></a> by <a href="https://hadley.nz/"> Hadley Wickham</a>, <a href="https://mine-cr.com/publication/"> Min Centinkaya-Rundel</a>, and <a href="https://education.rstudio.com/author/garrett/"> Garrett Grolemund</a>
 
-<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
 
 <h2>Selected Blog Posts</h2>
 
 <a href="https://blogs.worldbank.org/en/team/d/david-evans"> "How to Publish Statistically Insignificant Results in Economics"</a> by <a href="https://davidsevans.org/"> David Evans</a>
 
+
 <h2>Presentations</h2>
 
-<a href="https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf"> How to Give an Applied Micro Talk</a> by <a href="https://shapiro.scholars.harvard.edu/"> Jesse M. Shapiro</a>
+<a href="https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf"> "How to Give an Applied Micro Talk"</a> by <a href="https://shapiro.scholars.harvard.edu/"> Jesse M. Shapiro</a>
 
 
 <h2>Others</h2>
 
-<a href="https://annemburton.com/economics-conferences"> Economics Conference List</a> by <a href="https://annemburton.com/"> Anne Burton</a>
+<a href="https://sites.google.com/view/econgradadvice"> "Advice for PhD Students in Economics"</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
 
-<a href="https://instr.iastate.libguides.com/c.php?g=49275"> Economics Research Guide</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
+<a href="https://annemburton.com/economics-conferences"> "Economics Conference List"</a> by <a href="https://annemburton.com/"> Anne Burton</a>
 
-<a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
+<a href="https://instr.iastate.libguides.com/c.php?g=49275"> "Economics Research Guide"</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
 
-<a href="https://jenniferdoleac.com/resources/"> Many resources for crime economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+<a href="https://jenniferdoleac.com/resources/"> "Many resources for crime economists" </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+
 
 
 _Last updated: September 8, 2025_
