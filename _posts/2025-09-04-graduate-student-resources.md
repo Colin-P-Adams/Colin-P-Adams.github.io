@@ -15,12 +15,11 @@ exclude_from_archive: false
 This page brings together a variety of resources including books, presentations, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials.
 
 <h2>Books</h2>
-
-<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
+<a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
 
 <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo25674588.html"> <em>Economical Writing</em></a> by <a href="https://www.deirdremccloskey.com/"> Deirdre Nansen McCloskey</a>
 
-<a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
+<a href="https://direct.mit.edu/books/monograph/3957/A-Guide-for-the-Young-Economist"> <em>A Guide for the Young Economist</em></a> by <a href="https://sites.google.com/view/williamthomson"> William Thomson</a>
 
 <a href=""> <em>The Little Book of Research Writing</em></a> by Varanya Chaubey
 
