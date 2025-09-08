@@ -27,8 +27,9 @@ This page brings together a variety of resources including books, presentations,
 
 <h2>Textbooks</h2>
 
-<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
+<a href="https://r4ds.hadley.nz/"> <em>R for Data Scientists</em></a> by <a href="https://hadley.nz/"> Hadley Wickham</a>, <a href="https://mine-cr.com/publication/"> Min Centinkaya-Rundel</a>, and <a href="https://education.rstudio.com/author/garrett/"> Garrett Grolemund</a>
 
+<a href="https://michaeltopper1.github.io/data-wrangling-econ-book/"> <em>Data Wrangling for Economists</em></a> by <a href="https://michaeltopper.netlify.app/"> Michael Topper</a> and <a href="https://sites.google.com/view/dannyklinenberg/home"> Danny Klinenberg</a>
 
 <h2>Presentations</h2>
 
