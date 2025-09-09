@@ -55,14 +55,14 @@
 .icon-button {
   display: inline-block;
   padding: 8px 15px;
-  background-color: #862633; /* Garnet color */
+  background-color: #782F40; /* Garnet color */
   color: white;
   text-decoration: none !important; /* Ensure no underline */
   border-radius: 8px;
   font-weight: bold;
   font-size: 16px;
   transition: background-color 0.3s ease;
-  border: 1px solid #862633;
+  border: 1px solid #782F40;
 }
 
 .icon-button i {
@@ -72,7 +72,7 @@
 }
 
 .icon-button:hover {
-  background-color: #6b1e29; /* Darker garnet on hover */
+  background-color: #5E2331; /* Darker garnet on hover */
   color: white;
   text-decoration: none !important; /* Prevent underline on hover */
 }
