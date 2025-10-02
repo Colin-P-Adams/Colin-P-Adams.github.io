@@ -45,6 +45,8 @@ This page brings together a variety of resources including books, presentations,
 
 <a href="https://sites.google.com/view/econgradadvice"> Advice for PhD Students in Economics</a> aggregated by <a href="https://sites.google.com/site/chrisrotheconomics/home"> Chris Roth</a> and <a href="https://david-schindler.de/"> David Schindler</a>
 
+<a href="https://captgouda24.github.io/nicholas-decker.github.io/datasets.html"> Datasets for Economists </a> aggregated by <a href="https://captgouda24.github.io/nicholas-decker.github.io/index.html"> Nicholas Decker</a>
+
 <a href="https://annemburton.com/economics-conferences"> Economics Conference List</a> by <a href="https://annemburton.com/"> Anne Burton</a>
 
 <a href="https://instr.iastate.libguides.com/c.php?g=49275"> Economics Research Guide</a> by <a href="https://www.lib.iastate.edu/people/jeffrey-kushkowski"> Jeffery Kushkowski</a>
