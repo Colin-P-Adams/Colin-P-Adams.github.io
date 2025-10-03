@@ -101,7 +101,7 @@ redirect_from:
 
   <!-- Profile Picture -->
   <div class="about-image">
-      <img src="/images/Another Nice Picture.jpg" alt="Colin P. Adams" 
+      <img src="/images/Colin-Adams-2025-edited.jpg" alt="Colin P. Adams" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
     </div>
