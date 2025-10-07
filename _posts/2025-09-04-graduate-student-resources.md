@@ -12,7 +12,7 @@ permalink: /posts/graduatestudentresources
 exclude_from_archive: false
 ---
 
-This page brings together a variety of resources including books, presentations, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials.
+This page brings together a variety of resources including books, presentations, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials. Please let me know if any links are inactive so I can update or remove them.
 
 <h2>Books</h2>
 <a href="https://direct.mit.edu/books/monograph/5324/Doing-EconomicsWhat-You-Should-Have-Learned-in"> <em>Doing Economics: What You Should Have Learned in Grad School-But Didn't</em></a> by <a href="https://marcfbellemare.com/wordpress/"> Marc F. Bellemare </a>
