@@ -12,7 +12,7 @@ permalink: /posts/graduatestudentresources
 exclude_from_archive: false
 ---
 
-This page brings together a variety of resources including books, presentations, etc. that have been helpful to me and that provide guidance for aspiring researchers in economics. I include them here both for my own reference and in the hope that they will be useful to others. I will continue to expand the list as I come across additional materials. 
+This page compiles books, presentations, and other resources that I’ve found useful. It’s most relevant for reduced-form applied microeconomists and will continue to grow as I add new materials.
 
 Please let me know if any links are inactive so I can update or remove them.
 
@@ -58,4 +58,4 @@ Please let me know if any links are inactive so I can update or remove them.
 
 
 
-_Last updated: September 8, 2025_
+_Last updated: October 14, 2025_
