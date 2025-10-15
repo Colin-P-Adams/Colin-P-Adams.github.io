@@ -1,5 +1,5 @@
 ---
-title: 'Resources I’ve Found Helpful as an Econ Ph.D. Student'
+title: 'Resources for an Econ Ph.D. Student'
 date: 2025-09-04
 permalink: /posts/graduatestudentresources
 # tags:
