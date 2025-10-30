@@ -43,7 +43,11 @@ Please let me know if any links are inactive so I can update or remove them.
 <a href="https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf"> "How to Give an Applied Micro Talk"</a> by <a href="https://shapiro.scholars.harvard.edu/"> Jesse M. Shapiro</a>
 
 <h2>Code Related</h2>
-<a href="https://detexify.kirelabs.org/classify.html"> Detexify </a> by <a href="https://shapiro.scholars.harvard.edu/"> Philipp Kukl and Daniel Kirsch</a>
+<a href="https://detexify.kirelabs.org/classify.html"> Detexify </a> by Philipp Kukl and Daniel Kirsch
+
+<h2>Job Market</h2>
+<a href="https://docs.google.com/document/d/1V8-0GqlSXUjSTX0IHxZq-2w_7iHSnsCFQxdK9d06ogs/edit?tab=t.0#heading=h.er2sj9bny47b"> Job Market Thoughts </a> and <a href="https://docs.google.com/document/d/1sk_esBk6x8zsYE-fHo6uBomXGBORurntNidJrm5opXs/edit?tab=t.0#heading=h.3yyqt0f7wh2f"> Job Market Objective Functions </a> by <a href="https://www.nataliaemanuel.com/home"> Natalia Emanuel </a>
+
 
 <h2>Others</h2>
 
