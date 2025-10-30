@@ -29,9 +29,9 @@ Please let me know if any links are inactive so I can update or remove them.
 
 <h2>Data</h2>
 
-<a href="https://www.data-is-plural.com/"> <em>Data is Plural</em></a> aggregated by <a href="https://www.jsvine.com/"> Jeremy Singer-Vine</a>
+<a href="https://www.data-is-plural.com/"> <em>Data is Plural</em></a> compiled by <a href="https://www.jsvine.com/"> Jeremy Singer-Vine</a>
 
-<a href="https://captgouda24.github.io/nicholas-decker.github.io/datasets.html"> Economic Datasets for Researchers</a> aggregated by <a href="https://captgouda24.github.io/nicholas-decker.github.io/index.html"> Nicholas Decker</a>
+<a href="https://captgouda24.github.io/nicholas-decker.github.io/datasets.html"> Economic Datasets for Researchers</a> compiled by <a href="https://captgouda24.github.io/nicholas-decker.github.io/index.html"> Nicholas Decker</a>
 
 <h2>Writing Papers</h2>
 
