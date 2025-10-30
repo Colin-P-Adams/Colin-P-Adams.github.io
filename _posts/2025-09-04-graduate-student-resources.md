@@ -42,6 +42,8 @@ Please let me know if any links are inactive so I can update or remove them.
 
 <a href="https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf"> "How to Give an Applied Micro Talk"</a> by <a href="https://shapiro.scholars.harvard.edu/"> Jesse M. Shapiro</a>
 
+<h2>Code Related</h2>
+<a href="https://detexify.kirelabs.org/classify.html"> Detexify </a> by <a href="https://shapiro.scholars.harvard.edu/"> Philipp Kukl and Daniel Kirsch</a>
 
 <h2>Others</h2>
 
@@ -58,4 +60,4 @@ Please let me know if any links are inactive so I can update or remove them.
 
 
 
-_Last updated: October 14, 2025_
+_Last updated: October 30, 2025_
