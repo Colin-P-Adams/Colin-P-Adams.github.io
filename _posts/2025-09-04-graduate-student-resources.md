@@ -42,6 +42,9 @@ Please let me know if any links are inactive so I can update or remove them.
 
 <a href="https://shapiro.scholars.harvard.edu/sites/g/files/omnuum7731/files/shapiro/files/applied_micro_slides.pdf"> "How to Give an Applied Micro Talk"</a> by <a href="https://shapiro.scholars.harvard.edu/"> Jesse M. Shapiro</a>
 
+<a href="https://blogs.lse.ac.uk/impactofsocialsciences/2018/05/11/how-to-design-an-award-winning-conference-poster/
+"> "How to Design an Award-Winning Conference Poster"</a> by <a href="https://blogs.lse.ac.uk/impactofsocialsciences/"> LSE Impact Blog</a>
+
 <h2>Code Related</h2>
 <a href="https://detexify.kirelabs.org/classify.html"> Detexify</a> by Philipp Kukl and Daniel Kirsch
 
