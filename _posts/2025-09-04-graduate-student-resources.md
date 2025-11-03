@@ -65,9 +65,11 @@ Please let me know if any links are inactive so I can update or remove them.
 
 <a href="https://annemburton.com/economics-conferences"> Economics Conference List</a> by <a href="https://annemburton.com/"> Anne Burton</a>
 
+<a href="https://paulgp.com/econlit-pipeline/index.html"> Empirical Methods Trends</a> created by <a href="https://paulgp.com/"> Paul Goldsmith-Pinkham</a>
+
 <a href="https://blogs.worldbank.org/en/team/d/david-evans"> "How to Publish Statistically Insignificant Results in Economics"</a> by <a href="https://davidsevans.org/"> David Evans</a>
 
-<a href="https://jenniferdoleac.com/resources/"> Many Resources for Crime Economists </a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
+<a href="https://jenniferdoleac.com/resources/"> Many Resources for Crime Economists</a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
 
 
 _Last updated: October 30, 2025_
