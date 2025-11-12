@@ -141,7 +141,7 @@ redirect_from:
         43 61 356 503H871L583 715z"/>
     </svg>
   </a>
-  <a href="https://bsky.app/profile/colinpadams.bsky.social" class="icon-button" target="_blank" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://bsky.app/profile/colin-p-adams.bsky.social" class="icon-button" target="_blank" style="display: flex; align-items: center; justify-content: center;">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="18" height="18" fill="currentColor">
       <path d="M300 0c45 55 120 172 178 205 44 25 97 13 110-30 10-35-16-65-46-72 40 11 68 52 55 96-16 56-85 77-141 49-52-27-102-93-156-168-54 75-104 141-156 168-56 28-125 7-141-49-13-44 15-85 55-96-30 7-56 37-46 72 13 43 66 55 110 30 58-33 133-150 178-205zM150 262c48 2 96 33 150 90 54-57 102-88 150-90 65-3 113 56 79 125-29 59-96 115-229 211-133-96-200-152-229-211-34-69 14-128 79-125z"/>
     </svg>
