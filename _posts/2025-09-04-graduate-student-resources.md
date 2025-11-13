@@ -73,4 +73,4 @@ Please let me know if any links are inactive so I can update or remove them.
 <a href="https://jenniferdoleac.com/resources/"> Many Resources for Crime Economists</a> aggregated by <a href="https://jenniferdoleac.com/"> Jennifer Doleac</a>
 
 
-_Last updated: October 30, 2025_
+_Last updated: November 13, 2025_
