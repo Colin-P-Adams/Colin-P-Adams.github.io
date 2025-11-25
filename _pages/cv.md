@@ -40,12 +40,12 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <span style="display: block; height: 5px;"></span>
     <!--<strong>Abstract:</strong> I exploit variation in prison facility peer composition over time to identify heterogeneous peer effects on recidivism rates based on criminal severity. Using data from the Illinois Department of Corrections, which covers the entire prison population from 2014 to 2024, I employ two proxies for individual criminal severity&mdash;sentence length and felony crime class&mdash;to measure the effect of more severe criminal peers on total recidivism, recidivism by crime type, and recidivism into more severe crimes. Additionally, I exploit exogenous medical quarantines during the COVID-19 pandemic, which abruptly reduced inmate interaction. Variation in exposure to these quarantines across facilities and time provides an additional source of identification for peer effects on recidivism. This study contributes to the rapidly growing literature on peer effects within prisons and their impact on recidivism.-->
   </li>
-  <li>
+<!--<li>
     "Ban the Box Without a State Mandate: Local Policy Variation and  Recidivism in Florida"
     <br>
     <span style="display: block; height: 5px;"></span>
-    <!--<strong>Abstract:</strong> [Add abstract here when ready] -->
-  </li>
+    <!--<strong>Abstract:</strong> [Add abstract here when ready] 
+  </li>-->
 </ul>
 
 <section id="publications">
