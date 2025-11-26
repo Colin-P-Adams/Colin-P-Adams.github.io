@@ -1,5 +1,5 @@
 ---
-title: 'Does the Timing of Publishing Affect Citations and Circulation?'
+title: 'Does Publication Timing Affect Citations and Circulation?'
 date: 2025-11-26
 permalink: /posts/papertiming
 # tags:
