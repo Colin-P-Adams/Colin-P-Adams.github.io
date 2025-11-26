@@ -20,5 +20,11 @@ The NBER is aware of this sort of effect as they shifted their working papers em
 Related to the primacy effect, I believe there may be an effect of a paper's release or publication date on its circulation and citations. Consider papers released during the holidays or during the summer break while academics are balancing a multitude of other resonsibilities and hobbies apart from work which they don't do during the traditional Fall and Spring semesters. In the case of the NBER email, this may result in it not being viewed for weeks until the individual is back on their normal schedule. At which point, they now have a handful of working paper emails to sort through all at once or never at all. <a href="https://www.sciencedirect.com/science/article/pii/S0047272723001603">Lusher, Yang, and Carrell (2023)</a> provide evidence of crowding out among NBER working paper lists.
 
 
-
 <a href=""></a>
+
+
+<div class="about-image">
+      <img src="/images/post images/HappyThanksgiving.jpg" alt="" 
+           style="width: 100%; height: auto; border-radius: 15px; 
+                  padding: 5px; border: 1px solid #ccc;">
+</div>
