@@ -24,7 +24,7 @@ Related to the primacy effect, I believe there may be an effect of a paper's rel
 
 
 <div class="about-image">
-      <img src="/images/post images/HappyThanksgiving.jpg" alt="" 
+      <img src="/images/post images/paper timing/HappyThanksgiving.jpg" alt="" 
            style="width: 100%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 1px solid #ccc;">
 </div>
