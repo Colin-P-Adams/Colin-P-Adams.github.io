@@ -25,8 +25,9 @@ It is possible for the effect to go the other direction if the decrease in paper
 <a href=""></a>
 
 
-<div class="about-image">
-      <img src="/images/post images/paper timing/HappyThanksgiving.jpg" alt="" 
-           style="width: 75%; height: auto; border-radius: 15px; 
-                  padding: 5px; border: 0px solid #ccc;">
+<div class="about-image" style="text-align: center;">
+  <img src="/images/post images/paper timing/HappyThanksgiving.jpg" alt=""
+       style="width: 100%; height: auto; border-radius: 15px;
+              padding: 5px; border: 0px solid #ccc;">
 </div>
+
