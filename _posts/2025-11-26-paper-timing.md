@@ -27,6 +27,6 @@ One may argue this effect to be ambiguous if you expect the decrease in papers r
 
 <div class="about-image">
       <img src="/images/post images/paper timing/HappyThanksgiving.jpg" alt="" 
-           style="width: 100%; height: auto; border-radius: 15px; 
+           style="width: 75%; height: auto; border-radius: 15px; 
                   padding: 5px; border: 0px solid #ccc;">
 </div>
