@@ -13,7 +13,8 @@ permalink: /posts/papertiming
 exclude_from_archive: false
 ---
 
-The NBER is amazingly consistent with the release of their working paper series. They publ
+The NBER is amazingly consistent with the release of their working paper series. They email out the list of new working papers every week at Monday at 12am in the morning, as I have yet to realize the epsilon chance world where I don't get this email as in <a href="https://arielrubinstein.tau.ac.il/papers/32.pdf"> Rubenstein (1989)</a>. Unlike most people, firms, etc. the NBER's email continues just as strong and consistent throughout the holiday season. As we continue through this period of exorbinent amounts of food, football, and everyone's favorite, family, papers are still continually being released as new working papers or publications due to backlog, administrative delays, etc. Are these papers' circulation and citations, being hindered by their release date?
+
+The NBER is aware of this sort of effect as they shifted their working papers emails away from alphabetical order to random order in 2014. Papers listed first in the email were later found to have about 30% more views, downloads, and citations (<a href="https://direct.mit.edu/rest/article-abstract/99/1/32/58370/It-s-Good-to-Be-First-Order-Bias-in-Reading-and"> Feenberg et al 2017</a>).
 
 
-As we near the holidays and I continue to get the weekly NBER working paper email at 12am every Monday, I 
