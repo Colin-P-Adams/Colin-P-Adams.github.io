@@ -3,7 +3,6 @@ layout: archive
 permalink: /posts/
 title: "Posts"
 author_profile: true
-classes: posts-page
 redirect_from:
   - /wordpress/blog-posts/
   - /year-archive/
@@ -15,7 +14,7 @@ redirect_from:
   <p>Here, I share posts on topics broadly related to my research and teaching which catch my interest. I write about them to keep track of ideas and to share useful insights with others who might be interested.</p>
 </section>
 
-<div class="posts-archive">
+
 {% for post in site.posts %}
   {% unless post.exclude_from_archive %}
     {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -26,4 +25,4 @@ redirect_from:
     {% include archive-single.html %}
   {% endunless %}
 {% endfor %}
-</div>
+
