@@ -99,25 +99,6 @@ section li {
   margin-bottom: 3px;
 }
 
-// =============================
-// Posts Page
-// =============================
-
-/* DEBUG: if you don't see this outline, the new CSS is NOT being used */
-.posts-page .posts-archive {
-  outline: 4px solid red !important;
-}
-
-/* NUCLEAR: remove any width/max-width constraints inside excerpts on /posts/ */
-.posts-page .archive__item-excerpt,
-.posts-page .archive__item-excerpt > p {
-  max-width: none !important;
-  width: 100% !important;
-  display: block !important;
-  margin-left: 0 !important;
-  margin-right: 0 !important;
-}
-
 
 
 
