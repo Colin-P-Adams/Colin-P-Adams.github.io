@@ -99,3 +99,15 @@ section li {
   margin-bottom: 3px;
 }
 
+/* Posts archive: make post listings span full width */
+.layout--archive .archive__item,
+.layout--archive .archive__item-body,
+.layout--archive .archive__item-title,
+.layout--archive .archive__item-excerpt {
+  max-width: none !important;
+  width: 100% !important;
+  flex: 1 1 100% !important;
+}
+
+.archive__item { outline: 2px solid red !important; }
+
