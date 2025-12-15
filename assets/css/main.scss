@@ -93,3 +93,11 @@ ul li {
   display: block;     /* Moves it to the next line */
   margin-left: 20px;  /* Adjust this value to control indentation */
 }
+
+/* Make post excerpts span full content width on Posts page */
+.layout--archive .archive__item-excerpt,
+.layout--archive .archive__item-excerpt p,
+.layout--archive .archive__item-body {
+  max-width: none;
+}
+
