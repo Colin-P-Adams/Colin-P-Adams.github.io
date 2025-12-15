@@ -94,13 +94,18 @@ ul li {
   margin-left: 20px;  /* Adjust this value to control indentation */
 }
 
-/* Posts archive: make each item + excerpt use full width */
+/* Posts archive: remove the fixed/narrow width on each post listing item */
+.layout--archive .archive__item,
 .layout--archive .archive__item-body,
-.layout--archive .archive__item-body .archive__item-excerpt,
-.layout--archive .archive__item-body .archive__item-excerpt p {
+.layout--archive .archive__item-title,
+.layout--archive .archive__item-excerpt {
   max-width: none !important;
   width: 100% !important;
+  flex: 1 1 100% !important;
 }
+
+.layout--archive .archive__item { outline: 2px solid red !important; }
+
 
 
 
