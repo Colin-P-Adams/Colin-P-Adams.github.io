@@ -70,13 +70,13 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     </ul>
     <h3>As a Teaching Assistant at FSU</h3>
     <ul>
-      <li>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025 & 2026</span></li>
-      <li>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024 & 2025</span></li>
-      <li>Economics of Development <span style="float:right;">Fall, 2025</span></li>
-      <li>Mathematics for Economists (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></li>  
-      <li>International Finance <span style="float:right;">Spring, 2024</span></li>
-      <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
-      <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></li>
+      <li><small>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025 & 2026</span></small></li>
+      <li><small>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024 & 2025</span></small></li>
+      <li><small>Economics of Development <span style="float:right;">Fall, 2025</span></small></li>
+      <li><small>Mathematics for Economists (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></small></li>  
+      <li><small>International Finance <span style="float:right;">Spring, 2024</span></small></li>
+      <li><small>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></small></li>
+      <li><small>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025</span></small></li>
     </ul>
     <h3>As a Supplemental Instruction Leader at GC&SU</h3>
     <ul>
