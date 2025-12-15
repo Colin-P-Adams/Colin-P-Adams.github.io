@@ -117,11 +117,26 @@ section li {
   outline: 4px solid red !important;
 }
 
+/* FORCE the excerpt to actually take the full line */
 .posts-archive .archive__item-excerpt {
-  outline: 3px dashed blue !important;
+  display: block !important;
+  flex: 1 1 auto !important;
+  max-width: 100% !important;
+  width: auto !important;
 }
 
+/* If the parent is using inline-block or fixed width, force it too */
+.posts-archive .list__item,
+.posts-archive .archive__item {
+  display: block !important;
+  width: 100% !important;
+  max-width: none !important;
+}
 
+.posts-archive .archive__item-excerpt,
+.posts-archive .archive__item-excerpt * {
+  max-width: none !important;
+}
 
 
 
