@@ -94,4 +94,25 @@ ul li {
   margin-left: 20px;  /* Adjust this value to control indentation */
 }
 
+/* Hover abstracts for working papers */
 
+.paper-title {
+  position: relative;
+}
+
+.paper-abstract {
+  visibility: hidden;
+  opacity: 0;
+  width: 420px;
+  background-color: #ffffff;
+  color: #000000;
+  border: 1px solid #cccccc;
+  padding: 12px;
+  position: absolute;
+  z-index: 100;
+  top: 1.6em;
+  left: 0;
+  font-size: 0.9em;
+  line-height: 1.4;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12);
+}
