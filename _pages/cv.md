@@ -118,7 +118,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   
   <h3>2025</h3>
   <ul>
-    <li>FSU Quantitative Economics Workshop <em>(Upcoming)</em><span style="float: right;">Tallahassee, FL</span></li>
+    <li>FSU Quantitative Economics Workshop <span style="float: right;">Tallahassee, FL</span></li>
   </ul>
 
   <h3>2023</h3>
