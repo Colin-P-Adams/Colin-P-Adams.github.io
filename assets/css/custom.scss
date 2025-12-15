@@ -103,15 +103,20 @@ section li {
 // Posts Page
 // =============================
 
-/* Posts archive: make post listings span full width */
+/* Posts archive: force the wrapper + item to full width */
+.layout--archive .archive,
+.layout--archive .list__item,
 .layout--archive .archive__item,
-.layout--archive .archive__item-body,
 .layout--archive .archive__item-title,
 .layout--archive .archive__item-excerpt {
   max-width: none !important;
   width: 100% !important;
-  flex: 1 1 100% !important;
 }
 
-.archive__item { outline: 2px solid red !important; }
+/* If the theme is using floats/inline-blocks for list items */
+.layout--archive .list__item {
+  float: none !important;
+  display: block !important;
+}
+
 
