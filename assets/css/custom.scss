@@ -103,20 +103,15 @@ section li {
 // Posts Page
 // =============================
 
-/* Posts archive: force the wrapper + item to full width */
-.layout--archive .archive,
-.layout--archive .list__item,
-.layout--archive .archive__item,
-.layout--archive .archive__item-title,
-.layout--archive .archive__item-excerpt {
+.posts-archive .list__item,
+.posts-archive .archive__item,
+.posts-archive .archive__item-title,
+.posts-archive .archive__item-excerpt {
   max-width: none !important;
   width: 100% !important;
 }
 
-/* If the theme is using floats/inline-blocks for list items */
-.layout--archive .list__item {
-  float: none !important;
-  display: block !important;
-}
+.posts-archive { outline: 3px solid blue; }
+
 
 
