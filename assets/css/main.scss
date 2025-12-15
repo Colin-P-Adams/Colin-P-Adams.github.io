@@ -94,10 +94,13 @@ ul li {
   margin-left: 20px;  /* Adjust this value to control indentation */
 }
 
-/* Make post excerpts span full content width on Posts page */
-.layout--archive .archive__item-excerpt,
-.layout--archive .archive__item-excerpt p,
-.layout--archive .archive__item-body {
-  max-width: none;
+/* Force archive items + excerpts to take full width */
+.layout--archive .archive__item,
+.layout--archive .archive__item-body,
+.layout--archive .archive__item-excerpt {
+  max-width: none !important;
+  width: 100% !important;
+  flex: 1 1 100% !important;
 }
+
 
