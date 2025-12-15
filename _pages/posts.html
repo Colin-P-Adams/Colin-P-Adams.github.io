@@ -1,0 +1,33 @@
+---
+layout: archive
+permalink: /testing/
+title: "Posts (Testing)"
+author_profile: true
+---
+
+<section class="posts-custom__intro" style="margin-bottom: 1rem;">
+  <p>
+    Here, I share posts on topics broadly related to my research and teaching which catch my interest.
+    I write about them to keep track of ideas and to share useful insights with others who might be interested.
+  </p>
+</section>
+
+<div class="posts-custom__list">
+  {% assign posts_sorted = site.posts | sort: "date" | reverse %}
+  {% for post in posts_sorted %}
+    {% unless post.exclude_from_archive %}
+      <article class="posts-custom__item"
+               style="width: 100%; max-width: none; margin-bottom: 22px; padding-bottom: 18px; border-bottom: 1px solid #e5e5e5;">
+
+        <h2 class="posts-custom__title" style="margin-bottom: 6px;">
+          <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        </h2>
+
+        <div class="posts-custom__meta"
+             style="margin-bottom: 10px; font-size: 0.95em; color: #666;">
+          <time datetime="{{ post.date | date_to_xmlschema }}">
+            {{ post.date | date: "%B %d, %Y" }}
+          </time>
+        </div>
+
+        <div class="posts-custom__excerpt"
