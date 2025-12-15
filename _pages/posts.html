@@ -16,8 +16,9 @@ author_profile: true
   {% for post in posts_sorted %}
     {% unless post.exclude_from_archive %}
 
-      <article class="posts-custom__item"
-               style="width: 100%; max-width: none; margin-bottom: 26px; padding-bottom: 20px; border-bottom: 1px solid #e5e5e5;">
+        <article class="posts-custom__item"
+          style="width: 100%; max-width: none; margin-bottom: 28px; padding-bottom: 28px; border-bottom: 1px solid #e5e5e5;">
+
 
         <h2 class="posts-custom__title" style="margin-bottom: 6px;">
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
