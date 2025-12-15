@@ -103,15 +103,22 @@ section li {
 // Posts Page
 // =============================
 
-/* Posts page: make archive list use full width */
-.posts-archive,
-.posts-archive .list__item,
-.posts-archive .archive__item,
-.posts-archive .archive__item-title,
+/* POSTS PAGE ONLY: make excerpts match normal page body text */
 .posts-archive .archive__item-excerpt,
 .posts-archive .archive__item-excerpt p {
   max-width: none !important;
   width: 100% !important;
+  font-size: 1em !important;
+  line-height: inherit !important;
+}
+
+/* DEBUG: confirm Posts page CSS is active */
+.posts-archive {
+  outline: 4px solid red !important;
+}
+
+.posts-archive .archive__item-excerpt {
+  outline: 3px dashed blue !important;
 }
 
 
