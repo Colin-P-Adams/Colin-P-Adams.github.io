@@ -7,6 +7,25 @@ classes: wide
 ---
 
 <style>
+  /* DEBUG: show what is constraining width */
+  .page__inner-wrap,
+  .page__content,
+  .home-wrap {
+    outline: 3px solid rgba(200, 0, 0, 0.55);
+    outline-offset: 6px;
+  }
+
+  /* Page-only wrapper that can exceed the theme’s default content width */
+  .home-wrap {
+    width: min(1400px, 96vw);
+    margin: 0 auto;
+  }
+
+  ...everything else exactly the same...
+</style>
+
+
+<style>
   /* Page-only wrapper that can exceed the theme’s default content width */
   .home-wrap {
     width: min(1400px, 96vw);
@@ -121,3 +140,4 @@ classes: wide
     </div>
   </div>
 </div>
+
