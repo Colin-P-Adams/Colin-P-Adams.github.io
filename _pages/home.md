@@ -21,13 +21,17 @@ redirect_from:
   }
 
   /* Your usable area */
-.home-wrap {
-  width: 100%;
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 32px;
-  box-sizing: border-box;
-}
+  .home-wrap {
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .home-wrap {
+    transform: translateX(40px);
+  }
 
 .home-name {
   text-align: center;
