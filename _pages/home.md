@@ -7,13 +7,11 @@ classes: wide
 ---
 
 <style>
-  /* DEBUG: show what is constraining width */
-  .page__inner-wrap,
-  .page__content,
-  .home-wrap {
-    outline: 3px solid rgba(200, 0, 0, 0.55);
-    outline-offset: 6px;
-  }
+/* DEBUG: color-code the containers so we know what's actually constraining width */
+.page__inner-wrap { outline: 4px solid rgba(0, 120, 255, 0.65); outline-offset: 6px; } /* blue */
+.page__content    { outline: 4px solid rgba(0, 180, 80, 0.65);  outline-offset: 6px; } /* green */
+.home-wrap        { outline: 4px solid rgba(220, 0, 0, 0.65);   outline-offset: 6px; } /* red */
+
 
   /* Page-only wrapper that can exceed the theme’s default content width */
 .home-wrap {
