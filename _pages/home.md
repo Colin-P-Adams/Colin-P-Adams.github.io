@@ -94,7 +94,7 @@ classes: wide
         I am an economics Ph.D. student and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
       </p>
       <p>
-        I am an applied microeconomist with research interests in crime, public, and labor economics.
+        My research focuses on applied microeconomics, with interests in crime, public, and labor economics.
       </p>
       <p>
         Previously, I graduated from Georgia College &amp; State University with a B.S. in Economics and Finance.
