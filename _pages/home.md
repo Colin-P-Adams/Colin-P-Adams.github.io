@@ -27,11 +27,19 @@ classes: wide
   box-sizing: border-box;
 }
 
+.home-name {
+  text-align: center;
+  margin: 0 0 28px 0;
+  font-size: 2.6em;
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
   .home-name {
-    text-align: center;
-    margin: 0 0 28px 0;
-    font-size: 2.6em;
+    font-size: 2.1em;
   }
+}
+
 
   .home-grid {
     display: flex;
