@@ -19,10 +19,11 @@ classes: wide
   }
 
   /* Your usable area */
-  .home-wrap {
-    width: min(1800px, 96vw);
-    margin: 0 auto;
-  }
+.home-wrap {
+  width: min(1600px, 96vw);
+  margin: 0 auto;
+  padding: 0 48px;
+}
 
   .home-name {
     text-align: center;
