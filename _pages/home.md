@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /home/
+permalink: /
 title: ""
 author_profile: false
 classes: wide
