@@ -43,7 +43,7 @@ classes: wide
     display: flex;
     gap: 44px;
     align-items: flex-start;
-    justify-content: center;
+    justify-content: flex-start;
   }
 
   .home-photo {
