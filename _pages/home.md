@@ -91,7 +91,7 @@ classes: wide
 
   <div class="home-bio">
       <p>
-        I am an economics Ph.D. student and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
+        I am a third-year economics Ph.D. student and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
       </p>
       <p>
         My research interests are in crime, public, and labor economics using applied econometrics methods to gain causal inference.
