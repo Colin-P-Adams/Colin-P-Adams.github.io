@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Colin Adams"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Colin Adams"
 description              : &description "personal description"
