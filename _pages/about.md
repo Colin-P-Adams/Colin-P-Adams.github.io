@@ -1,21 +1,20 @@
 ---
-layout: single
 permalink: /
 title: ""
 author_profile: false
-classes: wide
-redirect_from:
+redirect_from: 
   - /about/
   - /about.html
 ---
 
-
 <style>
-.about-container{
-  width: 100%;
-  max-width: 1200px;   /* pick what you like */
-  margin: 0 auto;
-}
+  .about-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 40px;
+  }
 
   .about-image {
     flex: 1;
@@ -152,5 +151,6 @@ redirect_from:
     </svg>
   </a>
 </div>
+
 
 
