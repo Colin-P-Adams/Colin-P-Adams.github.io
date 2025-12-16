@@ -2,11 +2,10 @@
 layout: single
 permalink: /
 title: "Home"
-header:
-  show_title: false
+show_title: false
 author_profile: false
 classes: wide
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
   - /bio/
