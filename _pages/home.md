@@ -7,6 +7,7 @@ classes: wide
 redirect_from: 
   - /about/
   - /about.html
+  - /bio/
 ---
 
 <style>
