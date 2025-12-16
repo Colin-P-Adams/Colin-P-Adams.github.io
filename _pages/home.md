@@ -1,7 +1,9 @@
 ---
 layout: single
 permalink: /
-title: ""
+title: "Home"
+header:
+  show_title: false
 author_profile: false
 classes: wide
 redirect_from: 
