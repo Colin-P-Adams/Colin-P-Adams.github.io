@@ -97,7 +97,7 @@ classes: wide
         My research interests are in crime, public, and labor economics where I use applied econometric methods to conduct causal inference.
       </p>
       <p>
-        I have teaching experience across a wide range of undergraduate and graduate economics courses, serving as both an instructor of record and a teaching assistant.
+        I have teaching experience across a range of undergraduate and graduate economics courses, serving as both an instructor of record and a teaching assistant.
       </p>
       <p>
         Previously, I graduated from Georgia College &amp; State University with a B.S. in Economics and Finance.
