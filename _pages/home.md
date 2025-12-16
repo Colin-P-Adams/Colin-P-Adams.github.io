@@ -36,7 +36,7 @@ classes: wide
   .home-grid {
     display: flex;
     gap: 44px;
-    align-items: flex-start;
+    align-items: center;
     justify-content: flex-start;
   }
 
