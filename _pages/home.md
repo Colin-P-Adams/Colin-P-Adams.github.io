@@ -20,9 +20,11 @@ classes: wide
 
   /* Your usable area */
 .home-wrap {
-  width: min(1600px, 96vw);
+  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
-  padding: 0 48px;
+  padding: 0 32px;
+  box-sizing: border-box;
 }
 
   .home-name {
