@@ -40,11 +40,12 @@ classes: wide
     justify-content: flex-start;
   }
 
-  .home-photo {
-    flex: 0 0 460px;
-    max-width: 460px;
-    text-align: center;
-  }
+.home-photo {
+  flex: 0 0 360px;
+  max-width: 360px;
+  text-align: center;
+}
+
 
   .home-photo img {
     width: 100%;
