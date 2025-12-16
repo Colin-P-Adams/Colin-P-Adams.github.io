@@ -7,33 +7,20 @@ classes: wide
 ---
 
 <style>
-/* DEBUG: color-code the containers so we know what's actually constraining width */
-.page__inner-wrap { outline: 4px solid rgba(0, 120, 255, 0.65); outline-offset: 6px; } /* blue */
-.page__content    { outline: 4px solid rgba(0, 180, 80, 0.65);  outline-offset: 6px; } /* green */
-.home-wrap        { outline: 4px solid rgba(220, 0, 0, 0.65);   outline-offset: 6px; } /* red */
+  /* DEBUG: color-code containers */
+  .page__inner-wrap { outline: 4px solid rgba(0, 120, 255, 0.65); outline-offset: 6px; } /* blue */
+  .page__content    { outline: 4px solid rgba(0, 180, 80, 0.65);  outline-offset: 6px; } /* green */
+  .home-wrap        { outline: 4px solid rgba(220, 0, 0, 0.65);   outline-offset: 6px; } /* red */
 
+  /* Page-only: try removing the real width cap */
+  .page {
+    max-width: none !important;
+    width: 100% !important;
+  }
 
-  /* Page-only wrapper that can exceed the theme’s default content width */
-.home-wrap {
-  width: min(1800px, 96vw);
-  margin-left: 0;
-  margin-right: auto;
-}
-
-/* Page-only: remove theme width constraint so our home-wrap can actually use the screen */
-.page__inner-wrap,
-.page__content {
-  max-width: none !important;
-  width: 100% !important;
-}
-
-</style>
-
-
-<style>
-  /* Page-only wrapper that can exceed the theme’s default content width */
+  /* Your usable area */
   .home-wrap {
-    width: min(1400px, 96vw);
+    width: min(1800px, 96vw);
     margin: 0 auto;
   }
 
@@ -74,7 +61,6 @@ classes: wide
     max-width: 760px;
   }
 
-  /* Mobile / narrow screens: stack image then text then buttons */
   @media (max-width: 900px) {
     .home-grid {
       flex-direction: column;
@@ -129,9 +115,7 @@ classes: wide
   <a href="https://x.com/Colin_P_Adams" class="icon-button" target="_blank" rel="noopener"
            style="display:flex;align-items:center;justify-content:center;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1227" width="18" height="18" fill="currentColor" aria-label="X">
-            <path d="M714 519L1160 0H1049L663 450 381 0H0l463 684L0 1227h111l370-429 
-              300 429h481L714 519zM583 715l-43-61-340-479h147l274 386 
-              43 61 356 503H871L583 715z"/>
+            <path d="M714 519L1160 0H1049L663 450 381 0H0l463 684L0 1227h111l370-429 300 429h481L714 519zM583 715l-43-61-340-479h147l274 386 43 61 356 503H871L583 715z"/>
           </svg>
         </a>
 
