@@ -14,25 +14,43 @@ redirect_from:
 <style>
   .page__title { display: none !important; }
 
-  /* Page-only: remove theme width cap */
   .page {
     max-width: none !important;
     width: 100% !important;
   }
 
-  /* Main wrapper */
   .home-wrap {
     max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 32px;
     padding-right: 32px;
-    box-sizing: border-box;
   }
 
-  /* Desktop-only: slight right nudge (do NOT apply on tablets/phones) */
-  @media (min-width: 1101px) {
-    .home-wrap { transform: translateX(40px); }
+  /* IMPORTANT:
+     Default to "mobile/tablet" stacked layout.
+     Only switch to 2-column on true desktop-like devices (fine pointer + hover). */
+  .home-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Desktop-only: 2 columns (prevents iPad landscape from using desktop layout) */
+  @media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
+    .home-grid {
+      flex-direction: row;
+      gap: 44px;
+      align-items: center;
+      justify-content: flex-start;
+    }
+
+    /* Desktop-only: your slight right nudge */
+    .home-wrap {
+      transform: translateX(40px);
+    }
   }
 
   .home-name {
@@ -46,17 +64,20 @@ redirect_from:
     .home-name { font-size: 2.3em; }
   }
 
-  .home-grid {
-    display: flex;
-    gap: 44px;
-    align-items: center;
-    justify-content: flex-start;
+  .home-photo {
+    flex: none;
+    max-width: 520px;
+    width: 92%;
+    text-align: center;
   }
 
-  .home-photo {
-    flex: 0 0 360px;
-    max-width: 360px;
-    text-align: center;
+  /* Desktop photo size (only when in 2-column mode) */
+  @media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
+    .home-photo {
+      flex: 0 0 360px;
+      max-width: 360px;
+      width: auto;
+    }
   }
 
   .home-photo img {
@@ -65,32 +86,24 @@ redirect_from:
     border-radius: 15px;
     padding: 5px;
     border: 1px solid #ccc;
-    box-sizing: border-box;
   }
 
   .home-bio {
-    flex: 1 1 680px;
+    width: 92%;
     text-align: center;
+  }
+
+  /* Desktop bio sizing (only when in 2-column mode) */
+  @media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
+    .home-bio {
+      flex: 1 1 680px;
+      width: auto;
+    }
   }
 
   .home-bio p {
     margin: 0 auto 1.2em auto;
     max-width: 760px;
-  }
-
-  /* Tablet + mobile (includes iPad landscape): stack vertically */
-  @media (max-width: 1100px) {
-    .home-wrap { transform: none !important; }
-    .home-grid {
-      flex-direction: column;
-      align-items: center;
-    }
-    .home-photo {
-      flex: none;
-      max-width: 520px;
-      width: 92%;
-    }
-    .home-bio { width: 92%; }
   }
 </style>
 
@@ -151,6 +164,5 @@ redirect_from:
     </div>
   </div>
 </div>
-
 
 
