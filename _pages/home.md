@@ -12,6 +12,7 @@ redirect_from:
 ---
 
 <style>
+  .page__title { display: none !important; }
 
   /* Page-only: try removing the real width cap */
   .page {
