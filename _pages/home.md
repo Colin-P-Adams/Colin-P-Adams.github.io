@@ -36,7 +36,7 @@ redirect_from:
 
 @media (max-width: 480px) {
   .home-name {
-    font-size: 2.1em;
+    font-size: 2.3em;
   }
 }
 
