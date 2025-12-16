@@ -7,10 +7,6 @@ classes: wide
 ---
 
 <style>
-  /* DEBUG: color-code containers */
-  .page__inner-wrap { outline: 4px solid rgba(0, 120, 255, 0.65); outline-offset: 6px; } /* blue */
-  .page__content    { outline: 4px solid rgba(0, 180, 80, 0.65);  outline-offset: 6px; } /* green */
-  .home-wrap        { outline: 4px solid rgba(220, 0, 0, 0.65);   outline-offset: 6px; } /* red */
 
   /* Page-only: try removing the real width cap */
   .page {
