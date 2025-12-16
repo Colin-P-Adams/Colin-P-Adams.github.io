@@ -19,16 +19,18 @@ redirect_from:
     width: 100% !important;
   }
 
+  /* Main container */
   .home-wrap {
     max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 32px;
     padding-right: 32px;
-    transform: none;
+    transform: none; /* default: no horizontal shift */
   }
 
-  @media (min-width: 901px) {
+  /* ONLY desktop screens get the right shift */
+  @media (min-width: 1025px) {
     .home-wrap {
       transform: translateX(40px);
     }
@@ -47,6 +49,7 @@ redirect_from:
     }
   }
 
+  /* Layout grid */
   .home-grid {
     display: flex;
     gap: 44px;
@@ -78,16 +81,19 @@ redirect_from:
     max-width: 760px;
   }
 
-  @media (max-width: 900px) {
+  /* MOBILE + iPAD: stack vertically */
+  @media (max-width: 1024px) {
     .home-grid {
       flex-direction: column;
       align-items: center;
     }
+
     .home-photo {
       flex: none;
       max-width: 520px;
       width: 92%;
     }
+
     .home-bio {
       width: 92%;
     }
