@@ -20,7 +20,13 @@ classes: wide
   margin-right: auto;
 }
 
-  ...everything else exactly the same...
+/* Page-only: remove theme width constraint so our home-wrap can actually use the screen */
+.page__inner-wrap,
+.page__content {
+  max-width: none !important;
+  width: 100% !important;
+}
+
 </style>
 
 
