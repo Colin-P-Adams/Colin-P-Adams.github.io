@@ -16,10 +16,11 @@ classes: wide
   }
 
   /* Page-only wrapper that can exceed the theme’s default content width */
-  .home-wrap {
-    width: min(1400px, 96vw);
-    margin: 0 auto;
-  }
+.home-wrap {
+  width: min(1800px, 96vw);
+  margin: 0 auto;
+}
+
 
   ...everything else exactly the same...
 </style>
