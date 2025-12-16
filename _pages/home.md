@@ -94,7 +94,7 @@ classes: wide
         I am a third-year economics Ph.D. student and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
       </p>
       <p>
-        My research interests are in crime, public, and labor economics where I use applied econometrics methods to gain causal inference.
+        My research interests are in crime, public, and labor economics where I use applied econometric methods to conduct causal inference.
       </p>
       <p>
         Previously, I graduated from Georgia College &amp; State University with a B.S. in Economics and Finance.
