@@ -29,10 +29,12 @@ redirect_from:
         </h2>
 
 <div class="posts-custom__meta" style="margin-bottom: 14px; font-size: 0.95em; color: #666;">
-  <strong>Published:</strong>
-  <time datetime="{{ post.date | date_to_xmlschema }}">
-    {{ post.date | date: "%B %d, %Y" }}
-  </time>
+  <div>
+    <strong>Published:</strong>
+    <time datetime="{{ post.date | date_to_xmlschema }}">
+      {{ post.date | date: "%B %d, %Y" }}
+    </time>
+  </div>
 
   {% assign words = post.content | strip_html | number_of_words %}
   {% assign minutes = words | divided_by: 200 %}
@@ -40,9 +42,10 @@ redirect_from:
     {% assign minutes = 1 %}
   {% endif %}
 
-  <span style="margin-left: 8px;">· {{ minutes }} min read</span>
+  <div style="margin-top: 2px;">
+    {{ minutes }} min read
+  </div>
 </div>
-
 
         <div class="posts-custom__excerpt" style="width: 100%; max-width: none; font-size: 0.95em; line-height: 1.6;">
           {{ post.excerpt | markdownify }}
