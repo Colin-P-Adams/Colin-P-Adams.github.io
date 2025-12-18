@@ -105,14 +105,15 @@ redirect_from:
 
   <div class="home-grid">
 <div class="home-photo">
-  <picture>
-    <source
-      srcset="/images/Colin-Adams-2025-wide.jpg"
-      media="(min-width: 1100px) and (hover: hover) and (pointer: fine)">
-    <img
-      src="/images/Colin-Adams-2025-edited.jpg"
-      alt="Colin P. Adams">
-  </picture>
+<picture>
+  <source
+    srcset="/images/Colin-Adams-2025-edited.jpg"
+    media="(min-width: 1100px) and (hover: hover) and (pointer: fine)">
+  <img
+    src="/images/Colin-Adams-2025-wide.jpg"
+    alt="Colin P. Adams">
+</picture>
+
 </div>
 
   <div class="home-bio">
