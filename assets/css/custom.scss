@@ -4,14 +4,20 @@
 // =============================
 // Global Font Settings
 // =============================
-html, body {
+html,
+body {
   font-family: 'Merriweather', serif;
 }
 
 // =============================
 // Headings
 // =============================
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'Merriweather', serif;
   margin-top: 0.6em;
   margin-bottom: 0.4em;
@@ -34,32 +40,6 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
-#theme-toggle {
-  background: transparent;
-  border: 0;
-  cursor: pointer;
-  padding: 0.25rem 0.5rem;
-  font-size: 1.05rem;
-  line-height: 1;
-  color: inherit;
-}
-
-#site-nav .visible-links {
-  display: flex;
-  align-items: center;
-  flex-wrap: nowrap;
-}
-
-#site-nav .visible-links > li:last-child {
-  margin-left: auto;
-}
-
-#site-nav #theme-toggle {
-  display: inline-flex !important;
-  align-items: center;
-  justify-content: center;
-}
-
 // =============================
 // Sidebar & Author Profile
 // =============================
@@ -77,11 +57,13 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Merriweather', serif;
 }
 
+// High-specificity fix for name + occupation
 .author__content .author__name,
 .author__content .author__bio {
   font-family: 'Merriweather', serif;
 }
 
+// Homepage title
 #about-home h1 {
   font-family: 'Merriweather', serif;
 }
@@ -89,10 +71,13 @@ h1, h2, h3, h4, h5, h6 {
 // =============================
 // Research Page Spacing Tweaks
 // =============================
+
+// Reduce spacing for sections
 section {
   margin-bottom: 15px;
 }
 
+// Reduce spacing for subheadings
 section h2 {
   margin-top: 0.5em;
   margin-bottom: 0.3em;
@@ -103,11 +88,13 @@ section h3 {
   margin-bottom: 0.25em;
 }
 
+// Reduce spacing for paragraphs
 section p {
   margin-top: 0;
   margin-bottom: 5px;
 }
 
+// Compact lists
 section ul {
   margin-top: 5px;
   margin-bottom: 5px;
@@ -116,20 +103,5 @@ section ul {
 
 section li {
   margin-bottom: 3px;
-}
-
-// =============================
-// Dark Mode (Invert Method)
-// =============================
-html.dark-mode {
-  filter: invert(1) hue-rotate(180deg);
-}
-
-html.dark-mode img,
-html.dark-mode video,
-html.dark-mode iframe,
-html.dark-mode svg,
-html.dark-mode canvas {
-  filter: invert(1) hue-rotate(180deg);
 }
 
