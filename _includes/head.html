@@ -4,7 +4,11 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link
+  href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"
+  type="application/atom+xml"
+  rel="alternate"
+  title="{{ site.title }} Feed">
 
 <!-- Updated Favicon with Cache Busting -->
 <link rel="icon" href="{{ '/images/favicon.ico?v=2' | relative_url }}" type="image/x-icon">
@@ -15,14 +19,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  document.documentElement.className =
+    document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
 <!-- For all browsers -->
-<link href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap" rel="stylesheet">
-<link id="site-css" rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link
+  href="https://fonts.googleapis.com/css2?family=Merriweather&display=swap"
+  rel="stylesheet">
+
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/custom.css">
 
 <meta http-equiv="cleartype" content="on">
-
-<script defer src="{{ base_path }}/assets/js/theme-toggle.js"></script>
