@@ -14,26 +14,6 @@ redirect_from:
 <style>
   .page__title { display: none !important; }
 
-/* Default: mobile / tablet */
-.photo-desktop {
-  display: none;
-}
-
-.photo-mobile {
-  display: block;
-}
-
-/* Desktop-only (matches your 2-column breakpoint) */
-@media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
-  .photo-desktop {
-    display: block;
-  }
-
-  .photo-mobile {
-    display: none;
-  }
-}
-
   .page {
     max-width: none !important;
     width: 100% !important;
@@ -130,9 +110,10 @@ redirect_from:
 <div class="home-wrap">
   <h1 class="home-name">Colin P. Adams</h1>
 
-<div class="home-photo">
-  <img src="/images/Colin-Adams-2025.jpg" alt="Colin P. Adams">
-</div>
+  <div class="home-grid">
+    <div class="home-photo">
+      <img src="/images/Colin-Adams-2025-edited.jpg" alt="Colin P. Adams">
+    </div>
 
   <div class="home-bio">
       <p>
@@ -183,5 +164,4 @@ redirect_from:
     </div>
   </div>
 </div>
-
 
