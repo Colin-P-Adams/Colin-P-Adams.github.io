@@ -28,23 +28,18 @@ redirect_from:
           <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         </h2>
 
+{% assign words = post.content | strip_html | number_of_words %}
+{% assign minutes = words | divided_by: 200 %}
+{% if minutes < 1 %}
+  {% assign minutes = 1 %}
+{% endif %}
+
 <div class="posts-custom__meta" style="margin-bottom: 14px; font-size: 0.95em; color: #666;">
-  <div>
-    <strong>Published:</strong>
-    <time datetime="{{ post.date | date_to_xmlschema }}">
-      {{ post.date | date: "%B %d, %Y" }}
-    </time>
-  </div>
-
-  {% assign words = post.content | strip_html | number_of_words %}
-  {% assign minutes = words | divided_by: 200 %}
-  {% if minutes < 1 %}
-    {% assign minutes = 1 %}
-  {% endif %}
-
-  <div style="margin-top: 2px;">
-    {{ minutes }} min read
-  </div>
+  Published on
+  <time datetime="{{ post.date | date_to_xmlschema }}">
+    {{ post.date | date: "%B %d, %Y" }}
+  </time>;
+  {{ minutes }} minute read
 </div>
 
         <div class="posts-custom__excerpt" style="width: 100%; max-width: none; font-size: 0.95em; line-height: 1.6;">
