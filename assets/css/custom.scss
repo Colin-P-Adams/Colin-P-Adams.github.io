@@ -108,5 +108,17 @@ section li {
   line-height: 1;
 }
 
+html.dark-mode {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+html.dark-mode img,
+html.dark-mode video,
+html.dark-mode iframe,
+html.dark-mode svg,
+html.dark-mode canvas {
+  filter: invert(1) hue-rotate(180deg);
+}
+
 
 
