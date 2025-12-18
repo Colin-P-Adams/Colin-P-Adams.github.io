@@ -15,24 +15,15 @@ redirect_from:
   .page__title { display: none !important; }
 
   /* Default: mobile / tablet */
-  .photo-desktop {
-  display: none;
-  }
-
-  .photo-mobile {
-  display: block;
-  }
+.photo-desktop { display: none; }
+.photo-mobile  { display: block; }
 
 /* Desktop-only (matches your 2-column breakpoint) */
 @media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
-  .photo-desktop {
-    display: block;
-  }
-
-  .photo-mobile {
-    display: none;
-  }
+  .photo-desktop { display: block; }
+  .photo-mobile  { display: none; }
 }
+
   .page {
     max-width: none !important;
     width: 100% !important;
