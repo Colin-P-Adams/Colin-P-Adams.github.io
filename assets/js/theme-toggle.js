@@ -1,24 +1,30 @@
 (function () {
-  const key = "ap_theme";
-  const css = document.getElementById("site-css");
-  const icon = document.getElementById("theme-toggle-icon");
+  const key = "ap_theme_mode";
+  const root = document.documentElement;
 
-  function setTheme(mode) {
-    if (!css) return;
-    const isDark = mode === "dark";
-    css.href = isDark ? "{{ '/assets/css/main-dark.css' | relative_url }}" : "{{ '/assets/css/main.css' | relative_url }}";
-    if (icon) icon.textContent = isDark ? "☀️" : "🌙";
+  function apply(mode) {
+    if (mode === "dark") {
+      root.classList.add("dark-mode");
+      const icon = document.getElementById("theme-toggle-icon");
+      if (icon) icon.textContent = "☀️";
+    } else {
+      root.classList.remove("dark-mode");
+      const icon = document.getElementById("theme-toggle-icon");
+      if (icon) icon.textContent = "🌙";
+    }
     localStorage.setItem(key, mode);
   }
 
   document.addEventListener("DOMContentLoaded", function () {
     const saved = localStorage.getItem(key);
-    if (saved === "dark" || saved === "light") setTheme(saved);
+    apply(saved === "dark" ? "dark" : "light");
 
     const btn = document.getElementById("theme-toggle");
-    if (btn) btn.addEventListener("click", function () {
-      const next = (localStorage.getItem(key) === "dark") ? "light" : "dark";
-      setTheme(next);
-    });
+    if (btn) {
+      btn.addEventListener("click", function () {
+        const next = root.classList.contains("dark-mode") ? "light" : "dark";
+        apply(next);
+      });
+    }
   });
 })();
