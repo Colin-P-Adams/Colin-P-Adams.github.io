@@ -14,19 +14,25 @@ redirect_from:
 <style>
   .page__title { display: none !important; }
 
+  /* Page-only: remove theme width cap */
   .page {
     max-width: none !important;
     width: 100% !important;
   }
 
+  /* Main wrapper */
   .home-wrap {
     max-width: 1400px;
     margin-left: auto;
     margin-right: auto;
     padding-left: 32px;
     padding-right: 32px;
+    box-sizing: border-box;
   }
 
+  /* Desktop-only: slight right nudge (do NOT apply on tablets/phones) */
+  @media (min-width: 1101px) {
+    .home-wrap { transform: translateX(40px); }
   /* IMPORTANT:
      Default to "mobile/tablet" stacked layout.
      Only switch to 2-column on true desktop-like devices (fine pointer + hover). */
@@ -64,7 +70,16 @@ redirect_from:
     .home-name { font-size: 2.3em; }
   }
 
+  .home-grid {
+    display: flex;
+    gap: 44px;
+    align-items: center;
+    justify-content: flex-start;
+  }
+
   .home-photo {
+    flex: 0 0 360px;
+    max-width: 360px;
     flex: none;
     max-width: 520px;
     width: 92%;
@@ -86,9 +101,11 @@ redirect_from:
     border-radius: 15px;
     padding: 5px;
     border: 1px solid #ccc;
+    box-sizing: border-box;
   }
 
   .home-bio {
+    flex: 1 1 680px;
     width: 92%;
     text-align: center;
   }
@@ -104,6 +121,21 @@ redirect_from:
   .home-bio p {
     margin: 0 auto 1.2em auto;
     max-width: 760px;
+  }
+
+  /* Tablet + mobile (includes iPad landscape): stack vertically */
+  @media (max-width: 1100px) {
+    .home-wrap { transform: none !important; }
+    .home-grid {
+      flex-direction: column;
+      align-items: center;
+    }
+    .home-photo {
+      flex: none;
+      max-width: 520px;
+      width: 92%;
+    }
+    .home-bio { width: 92%; }
   }
 </style>
 
@@ -143,7 +175,7 @@ redirect_from:
         <a href="https://orcid.org/0009-0002-3490-5927" class="icon-button" target="_blank" rel="noopener">
           <i class="ai ai-orcid"></i> ORCID
         </a>
-        <a href="https://www.linkedin.com/in/Colin-Adams/" class="icon-button" target="_blank" rel="noopener">
+        <a href="https://www.linkedin.com/in/colin-p-adams/" class="icon-button" target="_blank" rel="noopener">
           <i class="fab fa-linkedin"></i> LinkedIn
         </a>
 
@@ -157,7 +189,7 @@ redirect_from:
   <a href="https://bsky.app/profile/colinpadams.bsky.social" class="icon-button" target="_blank" rel="noopener"
            style="display:flex;align-items:center;justify-content:center;">
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="18" height="18" fill="currentColor" aria-label="Bluesky">
-            <path d="M3.468 1.948C5.303 3.325 7.276 6.118 8 7.616c.725-1.498 2.698-4.29 4.532-5.668C13.855.955 16 .186 16 2.632c0 .489-.28 4.105-.444 4.692-.572 2.04-2.653 2.561-4.504 2.246 3.236.551 4.06 2.375 2.281 4.2-3.376 3.464-4.852-.87-5.23-1.98-.07-.204-.103/.3-.103-.218 0-.081-.033.014-.102.218-.379 1.11-1.855 5.444-5.231 1.98-1.778-1.825-.955-3.65 2.28-4.2-1.85.315-3.932-.205-4.503-2.246C.28 6.737 0 3.12 0 2.632 0 .186 2.145.955 3.468 1.948"/>
+            <path d="M3.468 1.948C5.303 3.325 7.276 6.118 8 7.616c.725-1.498 2.698-4.29 4.532-5.668C13.855.955 16 .186 16 2.632c0 .489-.28 4.105-.444 4.692-.572 2.04-2.653 2.561-4.504 2.246 3.236.551 4.06 2.375 2.281 4.2-3.376 3.464-4.852-.87-5.23-1.98-.07-.204-.103-.3-.103-.218 0-.081-.033.014-.102.218-.379 1.11-1.855 5.444-5.231 1.98-1.778-1.825-.955-3.65 2.28-4.2-1.85.315-3.932-.205-4.503-2.246C.28 6.737 0 3.12 0 2.632 0 .186 2.145.955 3.468 1.948"/>
           </svg>
         </a>
       </div>
