@@ -35,10 +35,9 @@ redirect_from:
 {% endif %}
 
 <div class="posts-custom__meta" style="margin-bottom: 14px; font-size: 0.95em; color: #666;">
-  Published on
-  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>;
-  {{ minutes }} minute read
+  Published on <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> · {{ minutes }} minute read
 </div>
+
 
         <div class="posts-custom__excerpt" style="width: 100%; max-width: none; font-size: 0.95em; line-height: 1.6;">
           {{ post.excerpt | markdownify }}
