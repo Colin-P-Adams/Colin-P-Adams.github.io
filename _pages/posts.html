@@ -36,9 +36,7 @@ redirect_from:
 
 <div class="posts-custom__meta" style="margin-bottom: 14px; font-size: 0.95em; color: #666;">
   Published on
-  <time datetime="{{ post.date | date_to_xmlschema }}">
-    {{ post.date | date: "%B %d, %Y" }}
-  </time>;
+  <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>;
   {{ minutes }} minute read
 </div>
 
