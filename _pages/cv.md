@@ -14,13 +14,13 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h2>Education</h2>
   <p>
     <strong>Florida State University</strong> (Tallahasse, FL)<br>
-    Ph.D., Economics <span style="float:right;"><em>(Expected)</em> May, 2028</span> <br>
-    M.S., Economics <span style="float:right;"> December, 2024</span>
+    Ph.D., Economics <span style="float:right;"><em>(Expected)</em> May 2028</span> <br>
+    M.S., Economics <span style="float:right;"> December 2024</span>
   </p>
   <p>
     <strong>Georgia College & State University</strong> (Milledgeville, GA) <br>
-    B.S., Economics <em>(summa cum laude)</em> <span style="float:right;"> May, 2023</span><br>
-    B.S., Finance <em>(summa cum laude)</em> <span style="float:right;"> May, 2023</span>
+    B.S., Economics <em>(summa cum laude)</em> <span style="float:right;"> May 2023</span><br>
+    B.S., Finance <em>(summa cum laude)</em> <span style="float:right;"> May 2023</span>
   </p>
 </section>
 
@@ -70,8 +70,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     </ul>
     <h3>As a Teaching Assistant at FSU</h3>
     <ul>
-      <li>Microeconomic Theory II (Ph.D.) <span style="float:right;">Spring, 2025 & 2026</span></li>
-      <li>Microeconomic Theory I (Ph.D.) <span style="float:right;">Fall, 2024 & 2025</span></li>
+      <li>Microeconomic Theory I & II (Ph.D.) <span style="float:right;">Fall, 2024-Spring, 2026</span></li>
       <li>Economics of Development <span style="float:right;">Fall, 2025</span></li>
       <li>Mathematics for Economists (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></li>  
       <li>International Finance <span style="float:right;">Spring, 2024</span></li>
