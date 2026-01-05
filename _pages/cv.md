@@ -127,7 +127,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
   <h3>2023</h3>
   <ul>
-    <li>Academy of Economics and Finance Annual Conference <span style="float: right;">Orlando, FL</span></li>
+    <li>Academy of Economics and Finance annual conference <span style="float: right;">Orlando, FL</span></li>
   </ul>
 
   <h3>2022</h3>
