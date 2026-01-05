@@ -115,6 +115,11 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section id="presentations">
   <h2>Conference and Seminar Presentations</h2>
+
+  <h3>2026</h3>
+  <ul>
+    <li>Midwestern Economic Association annual meetings <em>(Upcoming)</em> <span style="float: right;">Chicago, IL</span></li>
+  </ul>
   
   <h3>2025</h3>
   <ul>
