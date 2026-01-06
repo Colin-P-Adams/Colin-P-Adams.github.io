@@ -74,11 +74,11 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <h3>As a Teaching Assistant at FSU</h3>
     <ul>
       <li>Microeconomic Theory I & II (Ph.D.) <span style="float:right;">Fall, 2024-Spring, 2026</span></li>
+      <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025 & Spring, 2026</span></li>
       <li>Economics of Development <span style="float:right;">Fall, 2025</span></li>
       <li>Mathematics for Economists (Ph.D. Math Camp) <span style="float:right;">Summer, 2024 & 2025</span></li>  
       <li>International Finance <span style="float:right;">Spring, 2024</span></li>
       <li>Business Organization and Market Structure <span style="float:right;">Fall, 2023</span></li>
-      <li>Principles of Micro/Macro <span style="float:right;">Fall, 2023-Spring, 2025 & Spring, 2026</span></li>
     </ul>
     <h3>As a Supplemental Instruction Leader at GC&SU</h3>
     <ul>
