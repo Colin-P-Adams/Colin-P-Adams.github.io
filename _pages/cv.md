@@ -41,7 +41,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <!--<strong>Abstract:</strong> I exploit variation in prison facility peer composition over time to identify heterogeneous peer effects on recidivism rates based on criminal severity. Using data from the Illinois Department of Corrections, which covers the entire prison population from 2014 to 2024, I employ two proxies for individual criminal severity&mdash;sentence length and felony crime class&mdash;to measure the effect of more severe criminal peers on total recidivism, recidivism by crime type, and recidivism into more severe crimes. Additionally, I exploit exogenous medical quarantines during the COVID-19 pandemic, which abruptly reduced inmate interaction. Variation in exposure to these quarantines across facilities and time provides an additional source of identification for peer effects on recidivism. This study contributes to the rapidly growing literature on peer effects within prisons and their impact on recidivism.-->
   </li>
   <li>
-    "Why Johnny Can't Add: The Long-Run Effects of the New Math Movement"
+    &ldquo;Why Johnny Can't Add: The Long-Run Effects of the New Math Movement&rdquo;
     <br>
     <span style="display: block; height: 5px;"></span>
   </li>
