@@ -44,6 +44,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     "Why Johnny Can't Add: The Long-Run Effects of the New Math Movement"
     <br>
     <span style="display: block; height: 5px;"></span>
+  </li>
     <!--<strong>Abstract:</strong> [Add abstract here when ready] 
   </li
 <!--<li>
