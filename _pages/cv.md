@@ -128,7 +128,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h3>2026</h3>
   <ul>
     <li>Midwestern Economic Association annual meetings <em>(Upcoming)</em> <span style="float: right;">Chicago, IL</span></li>
-    <li>Invited to present at Georgia College &amp; State University</em> <span style="float: right;">Milledgeville, GA</span></li>
+    <li>Invited to present at Georgia College &amp; State University <span style="float: right;">Milledgeville, GA</span></li>
   </ul>
   
   <h3>2025</h3>
