@@ -158,7 +158,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <p>
     <a href="https://sites.google.com/site/kitchct/" target="_blank">Dr. Carl Kitchens</a>, Charles and Joan Haworth Professor of Economics at Florida State University<br>
     <a href="https://shawnkantor.wixsite.com/shawnkantor" target="_blank">Dr. Shawn Kantor</a>, L. Charles Hilton Jr. Distinguished Professor of Economics at Florida State University<br>
-    <a href="https://sites.google.com/site/lukeprodgers/" target="_blank">Dr. Luke Rodgers</a>, Associate Professor of Economics at Florida State University
+    <a href="https://sites.google.com/site/lukeprodgers/" target="_blank">Dr. Luke Rodgers</a>, Associate Professor of Economics and Bernard Sliger Scholar at Florida State University
   </p>
 </section>
 
