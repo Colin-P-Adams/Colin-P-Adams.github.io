@@ -45,6 +45,16 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <br>
     <span style="display: block; height: 5px;"></span>
   </li>
+  <li>
+    &ldquo;The Effects of School District Succession on Housing Prices&rdquo; with Minsoo Cho
+    <br>
+    <span style="display: block; height: 5px;"></span>
+  </li>
+  <li>
+    &ldquo;Public Presence and Crime: Evidence from NYC&rdquo; with <a href="https://samherrin.net/" target="_blank">Sam Herrin</a>
+    <br>
+    <span style="display: block; height: 5px;"></span>
+  </li>
     <!--<strong>Abstract:</strong> [Add abstract here when ready] 
   </li
 <!--<li>
