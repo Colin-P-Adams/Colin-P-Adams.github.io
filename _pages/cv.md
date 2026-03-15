@@ -159,7 +159,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section id="computational-skills">
   <h2>Computational Skills</h2>
-  <p>R, STATA, LaTeX</p>
+  <p>R, STATA, QGIS, LaTeX</p>
 </section>
 
 <section id="references">
