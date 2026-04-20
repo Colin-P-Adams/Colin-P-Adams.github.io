@@ -27,7 +27,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="fields">
   <h2>Fields of Interest</h2>
   <p>
-    Economics of Education, Crime Economics, Labor Economics, Public Economics, and Applied Microeconomics
+    Labor Economics, Economics of Education, Crime Economics, Public Economics, and Applied Microeconomics
   </p>
 </section>
 
@@ -138,11 +138,6 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <ul>
     <li>Midwestern Economic Association annual meetings <span style="float: right;">Chicago, IL</span></li>
     <li>Invited to present at Georgia College &amp; State University <span style="float: right;">Milledgeville, GA</span></li>
-  </ul>
-  
-  <h3>2025</h3>
-  <ul>
-    <li>FSU Quantitative Economics Workshop <span style="float: right;">Tallahassee, FL</span></li>
   </ul>
 
   <h3>2023</h3>
