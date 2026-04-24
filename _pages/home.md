@@ -56,7 +56,7 @@ redirect_from:
   .home-name {
     text-align: center;
     margin: 0 0 28px 0;
-    font-size: 3.8em;
+    font-size: 4.2em;
     white-space: nowrap;
   }
 
