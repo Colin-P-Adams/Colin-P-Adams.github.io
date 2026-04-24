@@ -436,21 +436,21 @@
 
 /*Making all of the header a different color*/
 
-/* Apply garnet color to the entire header section */
+/* Apply primary color to the entire header section */
 .site-header,
 .masthead,
 .greedy-nav {
-    background-color: $primary-color !important; /* Garnet color */
+    background-color: $primary-color !important; /* Primary color */
     border: none; /* Removes any borders causing separation */
     box-shadow: none; /* Optional: Removes any shadow if present */
 }
 
-/* Ensure inner header elements are also garnet */
+/* Ensure inner header elements are also primary */
 .site-header-inner {
     background-color: $primary-color !important;
 }
 
-/* Improve text visibility on garnet background */
+/* Improve text visibility on primary background */
 .site-header a,
 .masthead a,
 .greedy-nav a,
@@ -464,16 +464,16 @@
 .masthead a:hover,
 .greedy-nav a:hover,
 .nav__list a:hover {
-    color: #FFFFFF !important; /* Gold for a nice FSU-inspired hover effect */
+    color: #FFFFFF !important; 
 }
 
 /* Change the color of the dropdown navigation*/
 
-/* Change the mobile dropdown background to garnet */
+/* Change the mobile dropdown background to primary */
 .greedy-nav .hidden-links,
 .mobile-nav,
 .dropdown-menu {
-    background-color: $primary-color !important; /* Garnet background */
+    background-color: $primary-color !important; /* Primary background */
     border: none; 
     box-shadow: none;
 }
@@ -490,7 +490,7 @@
 .greedy-nav .hidden-links a:hover,
 .mobile-nav a:hover,
 .dropdown-menu a:hover {
-    background-color: $secondary-color; /* Slightly darker garnet for hover effect */
+    background-color: $secondary-color; /* Slightly darker parimary (ie secondary) for hover effect */
     color: #FFFFFF !important; /* Keep text white even on hover */
 }
 
