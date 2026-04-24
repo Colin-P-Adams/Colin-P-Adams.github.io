@@ -61,7 +61,7 @@ redirect_from:
   }
 
   @media (max-width: 480px) {
-    .home-name { font-size: 2.3em; }
+    .home-name { font-size: 3.45em; }
   }
 
   .home-photo {
