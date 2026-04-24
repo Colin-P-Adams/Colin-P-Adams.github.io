@@ -175,7 +175,7 @@
 .greedy-nav {
   position: relative;
   min-width: 250px;
-  background: #3C505F; /*Change the color of the navigation bar!*/
+  background: #4A5360; /*Change the color of the navigation bar!*/
 
   a {
     display: block;
@@ -440,14 +440,14 @@
 .site-header,
 .masthead,
 .greedy-nav {
-    background-color: #3C505F !important; /* Garnet color */
+    background-color: #4A5360 !important; /* Garnet color */
     border: none; /* Removes any borders causing separation */
     box-shadow: none; /* Optional: Removes any shadow if present */
 }
 
 /* Ensure inner header elements are also garnet */
 .site-header-inner {
-    background-color: #3C505F !important;
+    background-color: #4A5360 !important;
 }
 
 /* Improve text visibility on garnet background */
@@ -473,7 +473,7 @@
 .greedy-nav .hidden-links,
 .mobile-nav,
 .dropdown-menu {
-    background-color: #3C505F !important; /* Garnet background */
+    background-color: #4A5360 !important; /* Garnet background */
     border: none; 
     box-shadow: none;
 }
@@ -490,7 +490,7 @@
 .greedy-nav .hidden-links a:hover,
 .mobile-nav a:hover,
 .dropdown-menu a:hover {
-    background-color: #28363F; /* Slightly darker garnet for hover effect */
+    background-color: #323840; /* Slightly darker garnet for hover effect */
     color: #FFFFFF !important; /* Keep text white even on hover */
 }
 
