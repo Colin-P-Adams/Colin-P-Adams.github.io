@@ -51,7 +51,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     <span style="display: block; height: 5px;"></span>
   </li>
   <li>
-    &ldquo;Public Presence and Crime: Evidence from NYC&rdquo; with <a href="https://samherrin.net/" target="_blank">Sam Herrin</a>
+    &ldquo;Public Presence and Crime: Evidence from NYC&rdquo; with <a href="https://zacharygooch.com/" target="_blank">Zachary Gooch</a> and <a href="https://samherrin.net/" target="_blank">Sam Herrin</a>
     <br>
     <span style="display: block; height: 5px;"></span>
   </li>
