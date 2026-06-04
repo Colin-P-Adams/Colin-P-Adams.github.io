@@ -117,17 +117,13 @@ redirect_from:
 
   <div class="home-bio">
       <p>
-        I am a Lecturer of Finance at Georgia College & State University and a Ph.D. candidate in economics at Florida State University. I expect to graduate from FSU in May 2028.
+        I am a Lecturer of Finance at my alma mater, Georgia College & State University, and a Ph.D. candidate in economics at Florida State University. I expect to graduate from FSU in May 2028.
       </p>
       <p>
         My research interests are in labor economics, economics of education, crime economics, and financial literacy where I use applied econometric methods to conduct causal inference.
       </p>
       <p>
         I teach Personal Finance and Money and Banking at GC&SU. I also have undergraduate teaching experience at FSU as both an instructor of record and a teaching assistant.
-      </p>
-      <p>
-        Previously, I graduated from Georgia College &amp; State University with a B.S. in Economics and Finance.
-        <a href="https://frontpage.gcsu.edu/node/14695" target="_blank" rel="noopener">Here</a> is an article about me from my time at GC&amp;SU.
       </p>
 
   <div class="button-container" style="margin-top: 18px;">
