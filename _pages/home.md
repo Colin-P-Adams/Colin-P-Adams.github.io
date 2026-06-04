@@ -117,13 +117,13 @@ redirect_from:
 
   <div class="home-bio">
       <p>
-        I am a Ph.D. candidate in economics and Charles and Persis Rockwood Fellow at Florida State University. I expect to graduate from FSU in May 2028.
+        I am a Lecturer of Finance at Georgia College & State University and a Ph.D. candidate in economics at Florida State University. I expect to graduate from FSU in May 2028.
       </p>
       <p>
         My research interests are in the labor economics, economics of education, and crime economics where I use applied econometric methods to conduct causal inference.
       </p>
       <p>
-        I have teaching experience across a range of undergraduate and graduate economics courses, serving as both an instructor of record and a teaching assistant.
+        I teach Personal Finance and Money and Banking at GC&SU. I also have undergraduate teaching experience at FSU as both an instructor of record and a teaching assistant.
       </p>
       <p>
         Previously, I graduated from Georgia College &amp; State University with a B.S. in Economics and Finance.
