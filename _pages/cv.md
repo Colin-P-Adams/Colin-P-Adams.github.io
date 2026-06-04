@@ -24,6 +24,14 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   </p>
 </section>
 
+<section id="appointments">
+  <h2>Academic Appointments</h2>
+  <p>
+    <strong>Georgia College & State University</strong> (Milledgeville, GA) <br>
+    Lecturer of Finance <span style="float:right;"> August 2026-Present</span><br>
+  </p>
+</section>
+
 <section id="fields">
   <h2>Fields of Interest</h2>
   <p>
@@ -106,7 +114,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="honors">
   <h2>Honors, Scholarships, and Fellowships</h2>
   <ul>
-    <li>Charles and Persis Rockwood Fellowship, Florida State University <span style="float:right;">2023-Present</span></li>
+    <li>Charles and Persis Rockwood Fellowship, Florida State University <span style="float:right;">2023-2026</span></li>
     <li>Don Lavoie Fellowship, Mercatus Center at George Mason University <span style="float:right;">2026</span></li>
     <li>Hayek Fund for Scholars, Institute for Humane Studies (IHS) <span style="float:right;">2023</span></li>
     <li>Mentored Undergraduate Research and Creative Endeavors (<a href="https://www.gcsu.edu/murace" target="_blank">MURACE</a>) Grant, GC&SU <span style="float:right;">2022</span></li>
