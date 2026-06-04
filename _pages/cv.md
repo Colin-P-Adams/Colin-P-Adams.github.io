@@ -97,7 +97,7 @@ A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
     </ul>
     <h3>Florida State University</h3>
     <ul>
-        <li>Principles of Microeconomics <em>(</em><a href="/teaching/evaluations/PrincOfMicroSummer2025.pdf" target="_blank"><!--<em>Evaluations</em></a><em>: 5/5)</em>--><span style="float:right;">Summer, 2025</span></li>
+        <li>Principles of Microeconomics <!--<em>(</em><a href="/teaching/evaluations/PrincOfMicroSummer2025.pdf" target="_blank"><!--<em>Evaluations</em></a><em>: 5/5)</em>--><span style="float:right;">Summer, 2025</span></li>
     </ul>
     <ul>
         <li>Intermediate Microeconomic Theory <span style="float:right;">Summer, 2026</span></li>
