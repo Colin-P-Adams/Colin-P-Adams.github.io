@@ -8,7 +8,7 @@ redirect_from:
   - /curriculumvitae
 ---
 
-A pdf of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
+A PDF of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 
 <section id="education">
   <h2>Education</h2>
