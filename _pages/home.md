@@ -74,8 +74,8 @@ redirect_from:
   /* Desktop photo size (only when in 2-column mode) */
   @media (min-width: 1100px) and (hover: hover) and (pointer: fine) {
     .home-photo {
-      flex: 0 0 432px;
-      max-width: 432px;
+      flex: 0 0 380px;
+      max-width: 380px;
       width: auto;
     }
   }
