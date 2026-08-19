@@ -112,7 +112,7 @@ redirect_from:
 
   <div class="home-grid">
     <div class="home-photo">
-      <img src="/images/8-5-26.jpg" alt="Colin P. Adams">
+      <img src="/images/8-5-26 (No Button).png" alt="Colin P. Adams">
     </div>
 
   <div class="home-bio">
