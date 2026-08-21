@@ -27,7 +27,7 @@ author:
   bio              : "Lecturer of Finance<br />Ph.D. Candidate in Economics"
   location         : "Milledgeville, Georgia"
   employer         : "Georgia College & State University"
-  uri              : "https://www.gcsu.edu/business/economics/faculty-staff"
+  # uri              : "https://www.gcsu.edu/business/economics/faculty-staff"
   email            : "colin.adams@gcsu.edu"
   cv               : "/CV.pdf"
 
