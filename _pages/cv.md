@@ -154,7 +154,6 @@ A PDF of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <ul>
     <li>Southern Economics Association Annual Meetings  <span style="float: right;">Houston, TX</span></li>
     <li>Midwestern Economic Association Annual Meetings  <span style="float: right;">Chicago, IL</span></li>
-    <li>Invited to present at Georgia College &amp; State University <span style="float: right;">Milledgeville, GA</span></li>
   </ul>
   
   <h3>2023</h3>
