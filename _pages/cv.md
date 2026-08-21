@@ -121,6 +121,7 @@ A PDF of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="honors">
   <h2>Honors, Scholarships, and Fellowships</h2>
   <ul>
+    <li>Applying Mainline Political Economy Fellowship, Mercatus Center at George Mason University <span style="float:right;">2026-2027</span></li>
     <li>Charles and Persis Rockwood Fellowship, Florida State University <span style="float:right;">2023-2026</span></li>
     <li>Don Lavoie Fellowship, Mercatus Center at George Mason University <span style="float:right;">2026</span></li>
     <li>Hayek Fund for Scholars, Institute for Humane Studies (IHS) <span style="float:right;">2023</span></li>
