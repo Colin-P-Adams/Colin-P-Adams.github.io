@@ -120,7 +120,7 @@ redirect_from:
         I am a lecturer of finance at my alma mater, Georgia College & State University, and a Ph.D. candidate in economics at Florida State University, where I expect to graduate in 2028.
       </p>
       <p>
-        My research interests are in labor economics, the economics of education, the economics of crime, and financial literacy. My current work examines how early-life educational policies shape long-run labor market and criminal justice outcomes.
+        My research interests are in labor economics, the economics of education, crime economics, and financial literacy. My current work examines how early-life educational policies shape long-run labor market and criminal justice outcomes.
       </p>
       <p>
         I primarily teach Personal Finance and Money and Banking at GC&SU. I also have undergraduate teaching experience at FSU as both an instructor of record and a teaching assistant.
