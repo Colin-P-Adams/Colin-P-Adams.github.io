@@ -28,7 +28,7 @@ A PDF of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
   <h2>Academic Appointments</h2>
   <p>
     <strong>Georgia College & State University</strong> (Milledgeville, GA) <br>
-    Lecturer of Finance <span style="float:right;"> August 2026-Present</span><br>
+    Lecturer of Finance <span style="float:right;">August 2026&ndash;Present</span><br>
   </p>
 </section>
 
