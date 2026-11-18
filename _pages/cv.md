@@ -150,6 +150,11 @@ A PDF of my CV is available <a href="/CV.pdf" target="_blank">here</a>.
 <section id="presentations">
   <h2>Conference and Seminar Presentations</h2>
 
+  <h3>2027</h3>
+  <ul>
+    <li>Academy of Economics and Finance annual conference <span style="float: right;">Orlando, FL</span></li>
+  </ul>
+
   <h3>2026</h3>
   <ul>
     <li>Southern Economics Association Annual Meetings  <span style="float: right;">Houston, TX</span></li>
